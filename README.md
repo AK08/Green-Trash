@@ -1,2 +1,3 @@
 # Green-Trash
- 
+
+Static Website
